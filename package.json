@@ -1,0 +1,25 @@
+{
+  "name": "react-native-ptrframe",
+  "version": "0.0.1",
+  "description": "0.0.1",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "uul": "git+https://github.com/danatech/react-native-ptrframe.git"
+  },
+  "keywords": [
+    "react-native",
+    "pull-to-refresh"
+  ],
+  "author": "Danatech Developer <developer@danatech.cn>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danatech/react-native-ptrframe/issues"
+  },
+  "homepage": "https://github.com/danatech/react-native-ptrframe#readme",
+  "dependencies": {
+  }
+}
