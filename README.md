@@ -52,6 +52,7 @@ import PtrLayout from 'react-native-ptrframe';
 * **`renderPtrHeader`**: render refresh header view.
 * **`onTouchBegin`**: invoke when pull begin, used to disable content touching ability, since some content may get touch control which make pull gesture terminated.
 * **`onTouchEnd`**: invoke when pull end, used to enable content touching ability.
+* **`completeTime`**: refresh header shrink time, default is 200.
 
 ## Licensed
 
