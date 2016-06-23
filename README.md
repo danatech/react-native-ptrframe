@@ -5,6 +5,10 @@ This is a javascript only implementation.
 
 ## Demo
 
+![](./art/ptr_refreshing.png)
+![](./art/ptr_to_cancel.png)
+![](./art/ptr_to_refresh.png)
+
 ## Usage
 
 1. Run `npm install react-native-ptrframe --save`
