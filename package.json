@@ -1,6 +1,6 @@
 {
   "name": "react-native-ptrframe",
-  "version": "1.0.7",
+  "version": "1.0.6",
   "description": "A layout component to make its content has pull to refresh feature",
   "main": "lib/index.js",
   "scripts": {
