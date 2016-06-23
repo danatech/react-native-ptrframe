@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "uul": "git+https://github.com/danatech/react-native-ptrframe.git"
+    "url": "git+https://github.com/danatech/react-native-ptrframe.git"
   },
   "keywords": [
     "react-native",
